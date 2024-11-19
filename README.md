@@ -1,0 +1,4 @@
+- 👋@gleb-g7 - Gleb
+- 🌱 I’m currently learning c++
+- 📫 How to reach me tg: @rbk38
+- ⚡ Beginner
